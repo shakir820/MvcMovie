@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "E:\\Github\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "E:\\Github\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\SHAKIR\\.nuget\\packages\\",
         "outputPath": "E:\\Github\\MvcMovie\\MvcMovie\\obj\\",
+=======
+    "D:\\GitHub\\WebApplications\\MvcMovie\\MvcMovie.csproj": {}
+  },
+  "projects": {
+    "D:\\GitHub\\WebApplications\\MvcMovie\\MvcMovie.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\WebApplications\\MvcMovie\\MvcMovie.csproj",
+        "projectName": "MvcMovie",
+        "projectPath": "D:\\GitHub\\WebApplications\\MvcMovie\\MvcMovie.csproj",
+        "packagesPath": "C:\\Users\\SHAKIR\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\WebApplications\\MvcMovie\\obj\\",
+>>>>>>> ad5786628d7f9dc8d691603a2d8e2d0297930d82
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
